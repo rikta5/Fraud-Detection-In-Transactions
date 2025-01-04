@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset files
+*.csv
+
+# Ignore model files
+*.pkl
+*.joblib
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+env/
