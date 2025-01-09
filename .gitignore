@@ -1,0 +1,13 @@
+# Ignore the xgboost.dll file
+.venv/Lib/site-packages/xgboost/lib/xgboost.dll
+
+# Ignore dataset files
+*.csv
+*.parquet
+
+# Ignore other model files
+*.pkl
+*.joblib
+
+# Ignore virtual environment folder
+.venv/
