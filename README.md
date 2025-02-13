@@ -49,6 +49,3 @@ The project evaluates the performance of the classification models using metrics
 ## Acknowledgments
 Special thanks to [Chitwan Manchanda](https://www.kaggle.com/chitwanmanchanda) for providing the dataset used in this project.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
